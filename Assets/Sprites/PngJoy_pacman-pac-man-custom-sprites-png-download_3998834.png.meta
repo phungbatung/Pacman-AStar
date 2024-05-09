@@ -1,0 +1,5290 @@
+fileFormatVersion: 2
+guid: 5a5d43250085dec4081b31bea03ef396
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2607315030148789423
+    second: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_0
+  - first:
+      213: 4465192080313418133
+    second: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_1
+  - first:
+      213: 8153829605207583228
+    second: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_2
+  - first:
+      213: -6266224045378551164
+    second: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_3
+  - first:
+      213: 1967024492576671636
+    second: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_4
+  - first:
+      213: -2475869044150689648
+    second: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_5
+  - first:
+      213: 5065578586050421726
+    second: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_6
+  - first:
+      213: 7899896645837501076
+    second: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_7
+  - first:
+      213: -3912117896963466835
+    second: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_8
+  - first:
+      213: -2423196004801099564
+    second: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_9
+  - first:
+      213: 6909670601674968814
+    second: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_10
+  - first:
+      213: -6763157527388404477
+    second: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_11
+  - first:
+      213: 7203749176623824675
+    second: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_12
+  - first:
+      213: 7720435681990804360
+    second: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_13
+  - first:
+      213: -3064742065557534628
+    second: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_14
+  - first:
+      213: 2033381850671559264
+    second: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_15
+  - first:
+      213: -6651809836887023389
+    second: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_16
+  - first:
+      213: -44922120625173226
+    second: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_17
+  - first:
+      213: 9008539346020656384
+    second: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_18
+  - first:
+      213: 5074400924135316942
+    second: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_19
+  - first:
+      213: 7015595804125438206
+    second: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_20
+  - first:
+      213: -2425587650289477069
+    second: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_21
+  - first:
+      213: 1912257936976353925
+    second: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_22
+  - first:
+      213: -4404848826254831199
+    second: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_23
+  - first:
+      213: -8841816375369695230
+    second: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_24
+  - first:
+      213: 2919591141061902191
+    second: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_25
+  - first:
+      213: -2920203514647579838
+    second: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_26
+  - first:
+      213: -4533143231670178701
+    second: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_27
+  - first:
+      213: 5660041880956508240
+    second: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_28
+  - first:
+      213: -8887409959214137312
+    second: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_29
+  - first:
+      213: -5837381182829410130
+    second: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_30
+  - first:
+      213: 8974167943104376007
+    second: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_31
+  - first:
+      213: 2603412129472255360
+    second: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_32
+  - first:
+      213: 545634337803845123
+    second: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_33
+  - first:
+      213: -5212656668833696297
+    second: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_34
+  - first:
+      213: 2520663092721864482
+    second: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_35
+  - first:
+      213: -6807061591001983852
+    second: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_36
+  - first:
+      213: -3715030295935077830
+    second: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_37
+  - first:
+      213: 6749267726127948063
+    second: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_38
+  - first:
+      213: 469110835177039283
+    second: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_39
+  - first:
+      213: 8006990755270017081
+    second: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_40
+  - first:
+      213: 3865847910166836727
+    second: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_41
+  - first:
+      213: 2579063713015910929
+    second: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_42
+  - first:
+      213: 5108001188547003039
+    second: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_43
+  - first:
+      213: -4935517509185139939
+    second: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_44
+  - first:
+      213: 2966822324605714371
+    second: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_45
+  - first:
+      213: -5406403441050714402
+    second: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_46
+  - first:
+      213: -6022840993650329334
+    second: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_47
+  - first:
+      213: -5675056605192886402
+    second: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_48
+  - first:
+      213: -3926631953838829380
+    second: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_49
+  - first:
+      213: 4880935391565827367
+    second: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_50
+  - first:
+      213: -9199591134214510687
+    second: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_51
+  - first:
+      213: 5403976126171372969
+    second: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_52
+  - first:
+      213: 2013412395693460219
+    second: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_53
+  - first:
+      213: -3652479525482152448
+    second: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_54
+  - first:
+      213: -6097883951640949949
+    second: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_55
+  - first:
+      213: 8466141988906813169
+    second: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_56
+  - first:
+      213: 4107064041706648654
+    second: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_57
+  - first:
+      213: -7163975466674219490
+    second: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_58
+  - first:
+      213: 7424493613133570360
+    second: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_59
+  - first:
+      213: -7752779702821605038
+    second: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_60
+  - first:
+      213: -6319851986591595798
+    second: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_61
+  - first:
+      213: -5632125818496304624
+    second: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_62
+  - first:
+      213: -4361124343400406524
+    second: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_63
+  - first:
+      213: 1669841557553502499
+    second: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_64
+  - first:
+      213: -4047575217181400397
+    second: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_65
+  - first:
+      213: 4686053327885674689
+    second: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_66
+  - first:
+      213: 3282222746546735449
+    second: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_67
+  - first:
+      213: 7572423702135584472
+    second: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_68
+  - first:
+      213: -1926148197156594034
+    second: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_69
+  - first:
+      213: -7023109196098114006
+    second: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_70
+  - first:
+      213: -1868712820134869360
+    second: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_71
+  - first:
+      213: 7720450478018019197
+    second: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_72
+  - first:
+      213: -6269943549990342487
+    second: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_73
+  - first:
+      213: -106097771582856273
+    second: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_74
+  - first:
+      213: -3989742380940215076
+    second: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_75
+  - first:
+      213: -85908505500575932
+    second: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_76
+  - first:
+      213: 2246285256883764955
+    second: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_77
+  - first:
+      213: 7032849551943972840
+    second: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_78
+  - first:
+      213: 7664501007909367918
+    second: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_79
+  - first:
+      213: -7087237161702078353
+    second: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_80
+  - first:
+      213: -9189283242542614842
+    second: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_81
+  - first:
+      213: -4772867026392281756
+    second: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_82
+  - first:
+      213: 5683283719808761436
+    second: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_83
+  - first:
+      213: -7246052921339461109
+    second: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_84
+  - first:
+      213: -8153686160199718652
+    second: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_85
+  - first:
+      213: 6984087888348088303
+    second: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_86
+  - first:
+      213: 6395482095285430891
+    second: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_87
+  - first:
+      213: 5281930047338598984
+    second: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_88
+  - first:
+      213: 5830514291627425573
+    second: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_89
+  - first:
+      213: -1370927555797663140
+    second: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_90
+  - first:
+      213: 3908608748590238624
+    second: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_91
+  - first:
+      213: 5362622884045872441
+    second: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_92
+  - first:
+      213: -246592873001438671
+    second: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_93
+  - first:
+      213: -2398801974431031461
+    second: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_94
+  - first:
+      213: -8603123813144702932
+    second: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_95
+  - first:
+      213: 7958710396467046091
+    second: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_96
+  - first:
+      213: -6720288034711332978
+    second: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_97
+  - first:
+      213: 1538736444522050617
+    second: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_98
+  - first:
+      213: 4214267475676464407
+    second: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_99
+  - first:
+      213: -1283034549883810721
+    second: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_100
+  - first:
+      213: 8790200977135074734
+    second: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_101
+  - first:
+      213: 6708166070828104813
+    second: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_102
+  - first:
+      213: 1598567370194200589
+    second: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_103
+  - first:
+      213: 6241836853299004375
+    second: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_104
+  - first:
+      213: 8605465702055857929
+    second: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_105
+  - first:
+      213: -1547292804790195506
+    second: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_106
+  - first:
+      213: 3335014711831028618
+    second: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_107
+  - first:
+      213: 6730033376128095842
+    second: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_108
+  - first:
+      213: -6648813018643431003
+    second: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_109
+  - first:
+      213: 6819801408591862313
+    second: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_110
+  - first:
+      213: -8978445787908540961
+    second: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_111
+  - first:
+      213: -805257663084979753
+    second: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_112
+  - first:
+      213: -773129338452374397
+    second: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_113
+  - first:
+      213: -3860998240973941506
+    second: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_114
+  - first:
+      213: 1567092914819507948
+    second: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_115
+  - first:
+      213: -7275992910901532302
+    second: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_116
+  - first:
+      213: -387879646124951797
+    second: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_117
+  - first:
+      213: -156138194832597092
+    second: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_118
+  - first:
+      213: -5060961148575303055
+    second: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_119
+  - first:
+      213: -1910507767048352148
+    second: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_120
+  - first:
+      213: 172111282587737909
+    second: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_121
+  - first:
+      213: 1042034443301933184
+    second: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_122
+  - first:
+      213: 4197007943648683949
+    second: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_123
+  - first:
+      213: -3860069326482554246
+    second: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_124
+  - first:
+      213: -8341640276198155781
+    second: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_125
+  - first:
+      213: 3734618271767896029
+    second: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_126
+  - first:
+      213: -7627478028534296394
+    second: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_127
+  - first:
+      213: -1583822731253508132
+    second: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_128
+  - first:
+      213: -4907592876490287227
+    second: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_129
+  - first:
+      213: 1338326042666649570
+    second: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_130
+  - first:
+      213: -1562483475977684887
+    second: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_131
+  - first:
+      213: -3135226131674795897
+    second: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_132
+  - first:
+      213: -7727621479586150613
+    second: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_133
+  - first:
+      213: 5448355007688297837
+    second: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_134
+  - first:
+      213: -62165373277978346
+    second: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_135
+  - first:
+      213: 528369532377545606
+    second: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_136
+  - first:
+      213: -7505893357663560450
+    second: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_137
+  - first:
+      213: -9052144429427459604
+    second: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_138
+  - first:
+      213: 8189864962288901189
+    second: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_139
+  - first:
+      213: -2195478776471617398
+    second: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_140
+  - first:
+      213: -465979195820063496
+    second: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_141
+  - first:
+      213: 8515615535570767166
+    second: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_142
+  - first:
+      213: 6092856035844757731
+    second: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_143
+  - first:
+      213: -2851948609932090099
+    second: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_144
+  - first:
+      213: 3114422871820384469
+    second: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_145
+  - first:
+      213: 1641761414675287629
+    second: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_146
+  - first:
+      213: -8814787572453757398
+    second: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_147
+  - first:
+      213: 4928651654163895174
+    second: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_148
+  - first:
+      213: 6527872172413406122
+    second: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_149
+  - first:
+      213: 2916454596029329639
+    second: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_150
+  - first:
+      213: -3936478392343544708
+    second: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_151
+  - first:
+      213: 4079532833615259771
+    second: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_152
+  - first:
+      213: -372652517994173954
+    second: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_153
+  - first:
+      213: 3193568217451414271
+    second: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_154
+  - first:
+      213: 4785534082606130721
+    second: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_155
+  - first:
+      213: -1467673530940086646
+    second: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_156
+  - first:
+      213: -1961909450767982687
+    second: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_157
+  - first:
+      213: -512108845573435252
+    second: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_158
+  - first:
+      213: 566059560406810126
+    second: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_159
+  - first:
+      213: 6025478067286907414
+    second: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_160
+  - first:
+      213: 9091404037698850923
+    second: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_161
+  - first:
+      213: 8112829743995070936
+    second: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_162
+  - first:
+      213: -9176082340415195544
+    second: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_163
+  - first:
+      213: -7784974560824697593
+    second: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_164
+  - first:
+      213: 4689843323710210268
+    second: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_165
+  - first:
+      213: -5547526853677809817
+    second: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_166
+  - first:
+      213: 2411406273113413071
+    second: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_167
+  - first:
+      213: 6143961114076526740
+    second: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_168
+  - first:
+      213: 186595886435826366
+    second: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_169
+  - first:
+      213: 2635393220326345840
+    second: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_170
+  - first:
+      213: 1612450160662311787
+    second: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_171
+  - first:
+      213: 7554107688340815541
+    second: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_172
+  - first:
+      213: -5701073884355461242
+    second: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_173
+  - first:
+      213: -7894707866126441618
+    second: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_174
+  - first:
+      213: -5147392107877629876
+    second: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_175
+  - first:
+      213: -8361385322803525833
+    second: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_176
+  - first:
+      213: 2495195493854071352
+    second: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_177
+  - first:
+      213: -1640959493377891325
+    second: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_178
+  - first:
+      213: -12617971868967552
+    second: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_179
+  - first:
+      213: 2452452827470273160
+    second: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_180
+  - first:
+      213: 7493578930877123652
+    second: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_181
+  - first:
+      213: -8871050608353004375
+    second: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_182
+  - first:
+      213: 476523279658272195
+    second: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_183
+  - first:
+      213: 8610470407308384501
+    second: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_184
+  - first:
+      213: -2778069950119993035
+    second: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_185
+  - first:
+      213: 9095036761797867930
+    second: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_186
+  - first:
+      213: 8642344580244398850
+    second: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_187
+  - first:
+      213: 4499136782803463812
+    second: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_188
+  - first:
+      213: 6423533060306804332
+    second: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_189
+  - first:
+      213: 4748978021750896718
+    second: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_190
+  - first:
+      213: -1485008841349563319
+    second: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_191
+  - first:
+      213: 391865455245477443
+    second: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_192
+  - first:
+      213: 2511859264833019873
+    second: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_193
+  - first:
+      213: 3313626184217221285
+    second: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_194
+  - first:
+      213: -1475708297733865019
+    second: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_195
+  - first:
+      213: -2953378112819926915
+    second: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_196
+  - first:
+      213: -4154510272386265350
+    second: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_197
+  - first:
+      213: 8541250622721936452
+    second: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_198
+  - first:
+      213: -1899731478367124075
+    second: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_199
+  - first:
+      213: -1988824344759149846
+    second: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_200
+  - first:
+      213: 7415058504696679551
+    second: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_201
+  - first:
+      213: -7023540144788076244
+    second: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_202
+  - first:
+      213: 7144324425228300888
+    second: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_203
+  - first:
+      213: 5200316002087226568
+    second: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_204
+  - first:
+      213: -7069460052427967275
+    second: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_205
+  - first:
+      213: -3107925947388273398
+    second: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_206
+  - first:
+      213: 3084690798731109825
+    second: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_207
+  - first:
+      213: -5582109017177016597
+    second: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_208
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 8
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 844
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa43e8da43b0f2420800000000000000
+      internalID: 2607315030148789423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 844
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59108f81a8c87fd30800000000000000
+      internalID: 4465192080313418133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_2
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 844
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf9267933d8382170800000000000000
+      internalID: 8153829605207583228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_3
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 844
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 482433c3e66e909a0800000000000000
+      internalID: -6266224045378551164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_4
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 844
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4978680ba564c4b10800000000000000
+      internalID: 1967024492576671636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_5
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 844
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0902309d832f3add0800000000000000
+      internalID: -2475869044150689648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_6
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 843
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed36c5ba2ec8c4640800000000000000
+      internalID: 5065578586050421726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_7
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 844
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 492b179d42212ad60800000000000000
+      internalID: 7899896645837501076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_8
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 842
+        width: 36
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da95b00008d55b9c0800000000000000
+      internalID: -3912117896963466835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_9
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 844
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d84fa082141f5ed0800000000000000
+      internalID: -2423196004801099564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_10
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 844
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeecbcf9dc414ef50800000000000000
+      internalID: 6909670601674968814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_11
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 844
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3054104cf007422a0800000000000000
+      internalID: -6763157527388404477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_12
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 844
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32ffca385bbd8f360800000000000000
+      internalID: 7203749176623824675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_13
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 844
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8830050295f742b60800000000000000
+      internalID: 7720435681990804360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_14
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 841
+        width: 44
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c580f3e3459d775d0800000000000000
+      internalID: -3064742065557534628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_15
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 841
+        width: 43
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06231061506083c10800000000000000
+      internalID: 2033381850671559264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_16
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 797
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e066e6323600b3a0800000000000000
+      internalID: -6651809836887023389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_17
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 797
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61d449db197606ff0800000000000000
+      internalID: -44922120625173226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_18
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 797
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 005e0b05ec2c40d70800000000000000
+      internalID: 9008539346020656384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_19
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 797
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecddff251c4eb6640800000000000000
+      internalID: 5074400924135316942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_20
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 797
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef02e90b6376c5160800000000000000
+      internalID: 7015595804125438206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_21
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 797
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33adbe422e4965ed0800000000000000
+      internalID: -2425587650289477069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_22
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 796
+        width: 38
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58a956c4674b98a10800000000000000
+      internalID: 1912257936976353925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_23
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 797
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a1d8c59455ded2c0800000000000000
+      internalID: -4404848826254831199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_24
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 797
+        width: 40
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2008bd04ade8b4580800000000000000
+      internalID: -8841816375369695230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_25
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 797
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6f3f549ca8748820800000000000000
+      internalID: 2919591141061902191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_26
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 797
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2437595106a5977d0800000000000000
+      internalID: -2920203514647579838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_27
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 797
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37c25589f3a0711c0800000000000000
+      internalID: -4533143231670178701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_28
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 797
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0581f304a128c8e40800000000000000
+      internalID: 5660041880956508240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_29
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 797
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 020c5c7cab399a480800000000000000
+      internalID: -8887409959214137312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_30
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 794
+        width: 32
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea847e2fdb47dfea0800000000000000
+      internalID: -5837381182829410130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_31
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 794
+        width: 32
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cc2f637236aa8c70800000000000000
+      internalID: 8974167943104376007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_32
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 750
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 085132dc98d212420800000000000000
+      internalID: 2603412129472255360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_33
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 750
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30ebd021a8b729700800000000000000
+      internalID: 545634337803845123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_34
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 750
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d5b816a06ce8a7b0800000000000000
+      internalID: -5212656668833696297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_35
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 750
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22fcf105ab13bf220800000000000000
+      internalID: 2520663092721864482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_36
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 750
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4941f106c857881a0800000000000000
+      internalID: -6807061591001983852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_37
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 750
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a32b9f001af817cc0800000000000000
+      internalID: -3715030295935077830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_38
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 748
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f116ddddc373aad50800000000000000
+      internalID: 6749267726127948063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_39
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 750
+        width: 40
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b5a303b1dd928600800000000000000
+      internalID: 469110835177039283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_40
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 750
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 930c4b74bab8e1f60800000000000000
+      internalID: 8006990755270017081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_41
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 750
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f53e21313046a530800000000000000
+      internalID: 3865847910166836727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_42
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 750
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 112d96358ccaac320800000000000000
+      internalID: 2579063713015910929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_43
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 750
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f920e93840443e640800000000000000
+      internalID: 5108001188547003039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_44
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 750
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1b8c4299f4818bb0800000000000000
+      internalID: -4935517509185139939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_45
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 747
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cf72d17f254c2920800000000000000
+      internalID: 2966822324605714371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_46
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 747
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edef8b7f6b898f4b0800000000000000
+      internalID: -5406403441050714402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_47
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 703
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a09bfc2d6029a6ca0800000000000000
+      internalID: -6022840993650329334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_48
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 703
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e776e37d5162e31b0800000000000000
+      internalID: -5675056605192886402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_49
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 703
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb01dbbca0dc189c0800000000000000
+      internalID: -3926631953838829380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_50
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 703
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72dc9e9d0e09cb340800000000000000
+      internalID: 4880935391565827367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_51
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 703
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a7af4eda9c745080800000000000000
+      internalID: -9199591134214510687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_52
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 703
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9add22fb7a7cefa40800000000000000
+      internalID: 5403976126171372969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_53
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 702
+        width: 36
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfa4da708e311fb10800000000000000
+      internalID: 2013412395693460219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_54
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 712
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00ebf362939cf4dc0800000000000000
+      internalID: -3652479525482152448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_55
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 701
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34bc2ec9ad6ff5ba0800000000000000
+      internalID: -6097883951640949949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_56
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 712
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f64fca8847cd7570800000000000000
+      internalID: 8466141988906813169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_57
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 701
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4474bb5cf83ff830800000000000000
+      internalID: 4107064041706648654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_58
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 703
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e161549f442749c90800000000000000
+      internalID: -7163975466674219490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_59
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 703
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 831abffba99190760800000000000000
+      internalID: 7424493613133570360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_60
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 703
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 251b57fafe7986490800000000000000
+      internalID: -7752779702821605038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_61
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 703
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae2492a2a106b48a0800000000000000
+      internalID: -6319851986591595798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_62
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 699
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01ab83a886ba6d1b0800000000000000
+      internalID: -5632125818496304624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_63
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 699
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4026f42148c2a73c0800000000000000
+      internalID: -4361124343400406524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_64
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 657
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3295925ac087c2710800000000000000
+      internalID: 1669841557553502499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_65
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 657
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b26a32f8cf14d7c0800000000000000
+      internalID: -4047575217181400397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_66
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 657
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c8a9278ca4380140800000000000000
+      internalID: 4686053327885674689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_67
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 657
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95900a1b23ccc8d20800000000000000
+      internalID: 3282222746546735449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_68
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 657
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d63a869c37a61960800000000000000
+      internalID: 7572423702135584472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_69
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 657
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8ed8bb7b62f445e0800000000000000
+      internalID: -1926148197156594034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_70
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 680
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2eeacb6567e88e90800000000000000
+      internalID: -7023109196098114006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_71
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 664
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09684a8479ff016e0800000000000000
+      internalID: -1868712820134869360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_72
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 654
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7f32481ecc842b60800000000000000
+      internalID: 7720450478018019197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_73
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 654
+        width: 35
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a0f2159f8facf8a0800000000000000
+      internalID: -6269943549990342487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_74
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 657
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa3e75d83a0178ef0800000000000000
+      internalID: -106097771582856273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_75
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 657
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdcbcbe617691a8c0800000000000000
+      internalID: -3989742380940215076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_76
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 657
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 447147e5baacecef0800000000000000
+      internalID: -85908505500575932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_77
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 657
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdef0c03a886c2f10800000000000000
+      internalID: 2246285256883764955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_78
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 662
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e7b266e763b99160800000000000000
+      internalID: 7032849551943972840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_79
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 662
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e60bf05fe07cd5a60800000000000000
+      internalID: 7664501007909367918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_80
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 654
+        width: 36
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f68ccc9e95315ad90800000000000000
+      internalID: -7087237161702078353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_81
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 661
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c63ccbe39b197080800000000000000
+      internalID: -9189283242542614842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_82
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 610
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46d86bb2abe53cdb0800000000000000
+      internalID: -4772867026392281756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_83
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 610
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5e36fc8e641fde40800000000000000
+      internalID: 5683283719808761436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_84
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 610
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0241ef5249d07b90800000000000000
+      internalID: -7246052921339461109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_85
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 610
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 409e64b23a948de80800000000000000
+      internalID: -8153686160199718652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_86
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 610
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe788116ee67ce060800000000000000
+      internalID: 6984087888348088303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_87
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 610
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6aebd8b41151c850800000000000000
+      internalID: 6395482095285430891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_88
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 608
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8425418a46f2d4940800000000000000
+      internalID: 5281930047338598984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_90
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 607
+        width: 36
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c52c2e7c6ac79fce0800000000000000
+      internalID: -1370927555797663140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_91
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 622
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ab84b9b2fa2e3630800000000000000
+      internalID: 3908608748590238624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_92
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 611
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93d5fe3c91ddb6a40800000000000000
+      internalID: 5362622884045872441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_93
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 611
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1323b98a61de39cf0800000000000000
+      internalID: -246592873001438671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_94
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 607
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5f588b405eb5bed0800000000000000
+      internalID: -2398801974431031461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_95
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 607
+        width: 27
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c205ec629709b9880800000000000000
+      internalID: -8603123813144702932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_96
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 610
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc660a340f4037e60800000000000000
+      internalID: 7958710396467046091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_97
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 610
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8719b653adbcb2a0800000000000000
+      internalID: -6720288034711332978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_98
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 610
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9343faac4a0ba5510800000000000000
+      internalID: 1538736444522050617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_99
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 610
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7158d24e0f51c7a30800000000000000
+      internalID: 4214267475676464407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_100
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 610
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5c4f9befdeb13ee0800000000000000
+      internalID: -1283034549883810721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_101
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 610
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ead7d6a57311df970800000000000000
+      internalID: 8790200977135074734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_102
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 563
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6c79020081381d50800000000000000
+      internalID: 6708166070828104813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_103
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 563
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d08a4f9bd804f2610800000000000000
+      internalID: 1598567370194200589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_104
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 563
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d344d22c857f9650800000000000000
+      internalID: 6241836853299004375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_105
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 563
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90fc8d95671cc6770800000000000000
+      internalID: 8605465702055857929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_106
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 563
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eca66f65469e68ae0800000000000000
+      internalID: -1547292804790195506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_107
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 563
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a83e363f53a584e20800000000000000
+      internalID: 3335014711831028618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_108
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 560
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26653a6c2b1e56d50800000000000000
+      internalID: 6730033376128095842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_110
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 558
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92a93dd8f3dc4ae50800000000000000
+      internalID: 6819801408591862313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_111
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 572
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd5fb903027266380800000000000000
+      internalID: -8978445787908540961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_112
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 560
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d9982ffb6623d4f0800000000000000
+      internalID: -805257663084979753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_113
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 562
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38c0d1086fa4545f0800000000000000
+      internalID: -773129338452374397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_114
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 563
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef417586e8afa6ac0800000000000000
+      internalID: -3860998240973941506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_115
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 563
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce629d504be6fb510800000000000000
+      internalID: 1567092914819507948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_116
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 563
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27924755ffa760b90800000000000000
+      internalID: -7275992910901532302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_117
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 563
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b073e155489fd9af0800000000000000
+      internalID: -387879646124951797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_118
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 560
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9fd129932945ddf0800000000000000
+      internalID: -156138194832597092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_119
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 560
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17abd1546aad3c9b0800000000000000
+      internalID: -5060961148575303055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_120
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 516
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6e4574ee438c75e0800000000000000
+      internalID: -1910507767048352148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_121
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 516
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53f9a74bc46736200800000000000000
+      internalID: 172111282587737909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_122
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 516
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 080dbb42ecc067e00800000000000000
+      internalID: 1042034443301933184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_123
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 516
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da72ca0fc74ce3a30800000000000000
+      internalID: 4197007943648683949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_124
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 516
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7240aa26674e6ac0800000000000000
+      internalID: -3860069326482554246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_125
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 516
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf91e1d5d5a8c3c80800000000000000
+      internalID: -8341640276198155781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_126
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 514
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddf9864088704d330800000000000000
+      internalID: 3734618271767896029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_128
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 539
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd7127c0e91250ae0800000000000000
+      internalID: -1583822731253508132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_129
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 513
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5871f86c74ab4ebb0800000000000000
+      internalID: -4907592876490287227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_130
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 516
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e7cccee170b29210800000000000000
+      internalID: 1338326042666649570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_131
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 516
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 968bee69e81f05ae0800000000000000
+      internalID: -1562483475977684887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_132
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 516
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7807003c1707d74d0800000000000000
+      internalID: -3135226131674795897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_133
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 516
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b27c69ef439f1c490800000000000000
+      internalID: -7727621479586150613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_134
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 516
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6d4b7b43027c9b40800000000000000
+      internalID: 5448355007688297837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_135
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 513
+        width: 33
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 611cf602ce4232ff0800000000000000
+      internalID: -62165373277978346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_136
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 513
+        width: 32
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68bb08f4a45255700800000000000000
+      internalID: 528369532377545606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_137
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 511
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efcdf7652c5b5d790800000000000000
+      internalID: -7505893357663560450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_138
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 521
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce9f17c0a92506280800000000000000
+      internalID: -9052144429427459604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_139
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 472
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54cd5ab9ace38a170800000000000000
+      internalID: 8189864962288901189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_141
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 481
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f44c68e3628889f0800000000000000
+      internalID: -465979195820063496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_142
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 466
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3d4e71463b8d2670800000000000000
+      internalID: 8515615535570767166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_143
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 469
+        width: 35
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e81f14884c2e8450800000000000000
+      internalID: 6092856035844757731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_144
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 466
+        width: 44
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d05245b79d7db68d0800000000000000
+      internalID: -2851948609932090099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_145
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 466
+        width: 43
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d8b43bd917a83b20800000000000000
+      internalID: 3114422871820384469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_146
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 467
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4ec9a7ee45b8c610800000000000000
+      internalID: 1641761414675287629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_147
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 422
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2ead55d7659ba580800000000000000
+      internalID: -8814787572453757398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_148
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 423
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 683941cf096166440800000000000000
+      internalID: 4928651654163895174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_149
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 432
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aabcbd79729a79a50800000000000000
+      internalID: 6527872172413406122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_150
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 421
+        width: 18
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e032e7c004597820800000000000000
+      internalID: 2916454596029329639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_151
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 422
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7cbc5e22c1de59c0800000000000000
+      internalID: -3936478392343544708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_152
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 422
+        width: 21
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b782e257f796d9830800000000000000
+      internalID: 4079532833615259771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_153
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 417
+        width: 41
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef96d40628214daf0800000000000000
+      internalID: -372652517994173954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_154
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 417
+        width: 40
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff24b2f9f55d15c20800000000000000
+      internalID: 3193568217451414271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_155
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 375
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 126634ea4e1a96240800000000000000
+      internalID: 4785534082606130721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_156
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 384
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a86a21e13b6c1abe0800000000000000
+      internalID: -1467673530940086646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_157
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 391
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1af1e79cfb5e5c4e0800000000000000
+      internalID: -1961909450767982687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_158
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 387
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c80924dd7bf94e8f0800000000000000
+      internalID: -512108845573435252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_159
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 374
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0ef2cbcb2c0bd700800000000000000
+      internalID: 566059560406810126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_160
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 375
+        width: 40
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61a1b8ab06cce9350800000000000000
+      internalID: 6025478067286907414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_161
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 370
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b609790ddc72b2e70800000000000000
+      internalID: 9091404037698850923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_162
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 370
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d9ac062baf869070800000000000000
+      internalID: 8112829743995070936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_163
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 372
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86631d57ab108a080800000000000000
+      internalID: -9176082340415195544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_164
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 372
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70d579c22e636f390800000000000000
+      internalID: -7784974560824697593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_165
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 328
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd00cf1b7aba51140800000000000000
+      internalID: 4689843323710210268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_166
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 328
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76ff798f7b93303b0800000000000000
+      internalID: -5547526853677809817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_167
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 328
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc5d21eaa39077120800000000000000
+      internalID: 2411406273113413071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_168
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 328
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4983856c41cb34550800000000000000
+      internalID: 6143961114076526740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_169
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 326
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eba7e8758fbe69200800000000000000
+      internalID: 186595886435826366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_170
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 323
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07c4605cb2cc29420800000000000000
+      internalID: 2635393220326345840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_171
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 323
+        width: 40
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b637c44c0e2906610800000000000000
+      internalID: 1612450160662311787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_172
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 282
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bef99e4be495d860800000000000000
+      internalID: 7554107688340815541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_173
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 282
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68f7cbcf187b1e0b0800000000000000
+      internalID: -5701073884355461242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_174
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 299
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e632d02160d507290800000000000000
+      internalID: -7894707866126441618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_175
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 299
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c400e42662ac098b0800000000000000
+      internalID: -5147392107877629876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_176
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 299
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7378124795466fb80800000000000000
+      internalID: -8361385322803525833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_177
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 299
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83ac350e417b0a220800000000000000
+      internalID: 2495195493854071352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_178
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 299
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 304e762f8042a39e0800000000000000
+      internalID: -1640959493377891325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_179
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 299
+        width: 36
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08dd6fc750c23dff0800000000000000
+      internalID: -12617971868967552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_180
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 299
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88a94c95adcd80220800000000000000
+      internalID: 2452452827470273160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_181
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 299
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44c484fb55a8ef760800000000000000
+      internalID: 7493578930877123652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_182
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 291
+        width: 56
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a43b98f872b3e480800000000000000
+      internalID: -8871050608353004375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_183
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 294
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c54c3be563fc9600800000000000000
+      internalID: 476523279658272195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_184
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 291
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f811a817398e7770800000000000000
+      internalID: 8610470407308384501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_185
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 293
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53129e569105279d0800000000000000
+      internalID: -2778069950119993035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_186
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 287
+        width: 45
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a99b41e4fbf083e70800000000000000
+      internalID: 9095036761797867930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_187
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 270
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2036dfb4b96cfe770800000000000000
+      internalID: 8642344580244398850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_188
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 270
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48ee4e60115207e30800000000000000
+      internalID: 4499136782803463812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_189
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 270
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6e9096f849f42950800000000000000
+      internalID: 6423533060306804332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_190
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 270
+        width: 36
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4879908952c7e140800000000000000
+      internalID: 4748978021750896718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_191
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 270
+        width: 37
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94c7b03a350346be0800000000000000
+      internalID: -1485008841349563319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_192
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 270
+        width: 77
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34647ab2e8f207500800000000000000
+      internalID: 391865455245477443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_193
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 235
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ef552661baebd220800000000000000
+      internalID: 2511859264833019873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_194
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 235
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a853bc457d5cfd20800000000000000
+      internalID: 3313626184217221285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_195
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 245
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c10a713f1b358be0800000000000000
+      internalID: -1475708297733865019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_196
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 188
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7864f9014e7307d0800000000000000
+      internalID: -2953378112819926915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_197
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 188
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afe84b63be63856c0800000000000000
+      internalID: -4154510272386265350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_198
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 197
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44ccce8103e988670800000000000000
+      internalID: 8541250622721936452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_199
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 141
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 595cc4f194cc2a5e0800000000000000
+      internalID: -1899731478367124075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_200
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 141
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aea5bf1bbc64664e0800000000000000
+      internalID: -1988824344759149846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_201
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 158
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7c4f216c6497e660800000000000000
+      internalID: 7415058504696679551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_202
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 94
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c29063c537f578e90800000000000000
+      internalID: -7023540144788076244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_203
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 94
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85231e5663db52360800000000000000
+      internalID: 7144324425228300888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_204
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 111
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cc4038f9db3b2840800000000000000
+      internalID: 5200316002087226568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_205
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 47
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d47735b98b34ed90800000000000000
+      internalID: -7069460052427967275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_206
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 47
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0dd3bd31dd6ed4d0800000000000000
+      internalID: -3107925947388273398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_207
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 0
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c5a84420f50fca20800000000000000
+      internalID: 3084690798731109825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_208
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be6b8a59c6d5882b0800000000000000
+      internalID: -5582109017177016597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_0: 2607315030148789423
+      PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_1: 4465192080313418133
+      PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_10: 6909670601674968814
+      PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_100: -1283034549883810721
+      PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_101: 8790200977135074734
+      PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_102: 6708166070828104813
+      PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_103: 1598567370194200589
+      PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_104: 6241836853299004375
+      PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_105: 8605465702055857929
+      PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_106: -1547292804790195506
+      PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_107: 3335014711831028618
+      PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_108: 6730033376128095842
+      PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_11: -6763157527388404477
+      PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_110: 6819801408591862313
+      PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_111: -8978445787908540961
+      PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_112: -805257663084979753
+      PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_113: -773129338452374397
+      PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_114: -3860998240973941506
+      PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_115: 1567092914819507948
+      PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_116: -7275992910901532302
+      PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_117: -387879646124951797
+      PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_118: -156138194832597092
+      PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_119: -5060961148575303055
+      PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_12: 7203749176623824675
+      PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_120: -1910507767048352148
+      PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_121: 172111282587737909
+      PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_122: 1042034443301933184
+      PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_123: 4197007943648683949
+      PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_124: -3860069326482554246
+      PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_125: -8341640276198155781
+      PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_126: 3734618271767896029
+      PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_128: -1583822731253508132
+      PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_129: -4907592876490287227
+      PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_13: 7720435681990804360
+      PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_130: 1338326042666649570
+      PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_131: -1562483475977684887
+      PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_132: -3135226131674795897
+      PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_133: -7727621479586150613
+      PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_134: 5448355007688297837
+      PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_135: -62165373277978346
+      PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_136: 528369532377545606
+      PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_137: -7505893357663560450
+      PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_138: -9052144429427459604
+      PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_139: 8189864962288901189
+      PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_14: -3064742065557534628
+      PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_141: -465979195820063496
+      PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_142: 8515615535570767166
+      PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_143: 6092856035844757731
+      PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_144: -2851948609932090099
+      PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_145: 3114422871820384469
+      PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_146: 1641761414675287629
+      PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_147: -8814787572453757398
+      PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_148: 4928651654163895174
+      PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_149: 6527872172413406122
+      PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_15: 2033381850671559264
+      PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_150: 2916454596029329639
+      PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_151: -3936478392343544708
+      PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_152: 4079532833615259771
+      PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_153: -372652517994173954
+      PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_154: 3193568217451414271
+      PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_155: 4785534082606130721
+      PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_156: -1467673530940086646
+      PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_157: -1961909450767982687
+      PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_158: -512108845573435252
+      PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_159: 566059560406810126
+      PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_16: -6651809836887023389
+      PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_160: 6025478067286907414
+      PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_161: 9091404037698850923
+      PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_162: 8112829743995070936
+      PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_163: -9176082340415195544
+      PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_164: -7784974560824697593
+      PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_165: 4689843323710210268
+      PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_166: -5547526853677809817
+      PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_167: 2411406273113413071
+      PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_168: 6143961114076526740
+      PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_169: 186595886435826366
+      PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_17: -44922120625173226
+      PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_170: 2635393220326345840
+      PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_171: 1612450160662311787
+      PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_172: 7554107688340815541
+      PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_173: -5701073884355461242
+      PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_174: -7894707866126441618
+      PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_175: -5147392107877629876
+      PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_176: -8361385322803525833
+      PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_177: 2495195493854071352
+      PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_178: -1640959493377891325
+      PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_179: -12617971868967552
+      PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_18: 9008539346020656384
+      PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_180: 2452452827470273160
+      PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_181: 7493578930877123652
+      PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_182: -8871050608353004375
+      PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_183: 476523279658272195
+      PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_184: 8610470407308384501
+      PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_185: -2778069950119993035
+      PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_186: 9095036761797867930
+      PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_187: 8642344580244398850
+      PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_188: 4499136782803463812
+      PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_189: 6423533060306804332
+      PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_19: 5074400924135316942
+      PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_190: 4748978021750896718
+      PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_191: -1485008841349563319
+      PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_192: 391865455245477443
+      PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_193: 2511859264833019873
+      PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_194: 3313626184217221285
+      PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_195: -1475708297733865019
+      PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_196: -2953378112819926915
+      PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_197: -4154510272386265350
+      PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_198: 8541250622721936452
+      PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_199: -1899731478367124075
+      PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_2: 8153829605207583228
+      PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_20: 7015595804125438206
+      PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_200: -1988824344759149846
+      PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_201: 7415058504696679551
+      PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_202: -7023540144788076244
+      PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_203: 7144324425228300888
+      PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_204: 5200316002087226568
+      PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_205: -7069460052427967275
+      PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_206: -3107925947388273398
+      PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_207: 3084690798731109825
+      PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_208: -5582109017177016597
+      PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_21: -2425587650289477069
+      PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_22: 1912257936976353925
+      PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_23: -4404848826254831199
+      PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_24: -8841816375369695230
+      PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_25: 2919591141061902191
+      PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_26: -2920203514647579838
+      PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_27: -4533143231670178701
+      PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_28: 5660041880956508240
+      PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_29: -8887409959214137312
+      PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_3: -6266224045378551164
+      PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_30: -5837381182829410130
+      PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_31: 8974167943104376007
+      PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_32: 2603412129472255360
+      PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_33: 545634337803845123
+      PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_34: -5212656668833696297
+      PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_35: 2520663092721864482
+      PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_36: -6807061591001983852
+      PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_37: -3715030295935077830
+      PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_38: 6749267726127948063
+      PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_39: 469110835177039283
+      PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_4: 1967024492576671636
+      PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_40: 8006990755270017081
+      PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_41: 3865847910166836727
+      PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_42: 2579063713015910929
+      PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_43: 5108001188547003039
+      PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_44: -4935517509185139939
+      PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_45: 2966822324605714371
+      PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_46: -5406403441050714402
+      PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_47: -6022840993650329334
+      PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_48: -5675056605192886402
+      PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_49: -3926631953838829380
+      PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_5: -2475869044150689648
+      PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_50: 4880935391565827367
+      PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_51: -9199591134214510687
+      PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_52: 5403976126171372969
+      PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_53: 2013412395693460219
+      PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_54: -3652479525482152448
+      PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_55: -6097883951640949949
+      PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_56: 8466141988906813169
+      PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_57: 4107064041706648654
+      PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_58: -7163975466674219490
+      PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_59: 7424493613133570360
+      PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_6: 5065578586050421726
+      PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_60: -7752779702821605038
+      PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_61: -6319851986591595798
+      PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_62: -5632125818496304624
+      PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_63: -4361124343400406524
+      PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_64: 1669841557553502499
+      PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_65: -4047575217181400397
+      PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_66: 4686053327885674689
+      PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_67: 3282222746546735449
+      PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_68: 7572423702135584472
+      PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_69: -1926148197156594034
+      PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_7: 7899896645837501076
+      PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_70: -7023109196098114006
+      PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_71: -1868712820134869360
+      PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_72: 7720450478018019197
+      PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_73: -6269943549990342487
+      PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_74: -106097771582856273
+      PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_75: -3989742380940215076
+      PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_76: -85908505500575932
+      PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_77: 2246285256883764955
+      PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_78: 7032849551943972840
+      PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_79: 7664501007909367918
+      PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_8: -3912117896963466835
+      PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_80: -7087237161702078353
+      PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_81: -9189283242542614842
+      PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_82: -4772867026392281756
+      PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_83: 5683283719808761436
+      PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_84: -7246052921339461109
+      PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_85: -8153686160199718652
+      PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_86: 6984087888348088303
+      PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_87: 6395482095285430891
+      PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_88: 5281930047338598984
+      PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_9: -2423196004801099564
+      PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_90: -1370927555797663140
+      PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_91: 3908608748590238624
+      PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_92: 5362622884045872441
+      PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_93: -246592873001438671
+      PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_94: -2398801974431031461
+      PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_95: -8603123813144702932
+      PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_96: 7958710396467046091
+      PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_97: -6720288034711332978
+      PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_98: 1538736444522050617
+      PngJoy_pacman-pac-man-custom-sprites-png-download_3998834_99: 4214267475676464407
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
